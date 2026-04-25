@@ -24,3 +24,5 @@ So this is me- my portfolio of work- and my story of transitioning into an align
 ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white)
 
 <hr>
+
+### Learning in Public 
