@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sristi Prasad
-Associate Product Manager and an overwhelmed learner in the field of AI advancement.
+Associate Product Manager and an overwhelmed learner in the field of AI Product Management.
 
 I started my career working on the world's first computers- Mainframes. 
 
