@@ -9,3 +9,5 @@ Already 3+ years into the business, before realising it's time to shift gears to
 I stumbled upon Product management as a career and completed a certification before ascertaining that this is what I have always been doing- just better acquainted now with concepts and lingos.
 
 So this is me- my portfolio of work- and my story of transitioning into an aligned role with the skills and experience of building from the world's first to the world's finest.
+
+### Playing with
