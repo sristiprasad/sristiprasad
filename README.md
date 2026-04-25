@@ -23,4 +23,4 @@ So this is me- my portfolio of work- and my story of transitioning into an align
 ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white)
 
-
+<hr>
