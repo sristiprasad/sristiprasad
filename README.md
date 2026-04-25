@@ -25,4 +25,4 @@ So this is me- my portfolio of work- and my story of transitioning into an align
 
 <hr>
 
-### Learning in Public (
+### Learning in Public [sristiprasad/blog](https://github.com/sristiprasad/blog)
