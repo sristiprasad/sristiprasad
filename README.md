@@ -13,17 +13,17 @@ So this is me- my portfolio of work- and my story of transitioning into an align
 
 ### Playing with
 
-ChatGPT
-Figma
-Mixpanel
-Jira
-Confluence
-Google Stitch
-Claude Code
-Notion
-SQL
-Lovable
-Vercel
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1f2937?style=flat&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1f2937?style=flat&logo=figma&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-1f2937?style=flat&logo=mixpanel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-1f2937?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-1f2937?style=flat&logo=confluence&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-1f2937?style=flat&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1f2937?style=flat&logo=anthropic&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-1f2937?style=flat&logo=notion&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat&logo=postgresql&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-1f2937?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-1f2937?style=flat&logo=vercel&logoColor=white)
 
 ---
 
