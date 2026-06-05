@@ -39,7 +39,11 @@ So this is me- my portfolio of work- and my story of transitioning into an align
   </tr>
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Two%20things%20that%20Rapido%20is%20doing%20wrong.md">Two things that Rapido is doing wrong</a></td>
-    <td>A user watches their ride get rejected again and again, while on the other side a driver mid-ride is interrupted by new requests—revealing how Rapido’s real-time signals create frustration for users and unsafe distractions for drivers</td>
+    <td>A user watches their ride get rejected again and again, while on the other side a driver mid-ride is interrupted by new requests—revealing how Rapido’s real-time signals create frustration for users and unsafe distractions for drivers.</td>
+  </tr>
+  <tr>
+    <td><a href="">Grocery Comparator Agent</a></td>
+    <td>Converse on whatsapp to get real time prices of your daily grocery grouped by popular quick-commerce apps.</td>
   </tr>
 </table>
 <hr>
