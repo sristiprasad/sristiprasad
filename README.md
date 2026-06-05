@@ -46,4 +46,3 @@ So this is me- my portfolio of work- and my story of transitioning into an align
     <td>Converse on whatsapp to get real time prices of your daily grocery grouped by popular quick-commerce apps.</td>
   </tr>
 </table>
-<hr>
