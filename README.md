@@ -42,7 +42,7 @@ So this is me- my portfolio of work- and my story of transitioning into an align
     <td>A user watches their ride get rejected again and again, while on the other side a driver mid-ride is interrupted by new requests—revealing how Rapido’s real-time signals create frustration for users and unsafe distractions for drivers.</td>
   </tr>
   <tr>
-    <td><a href="">Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</a></td>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Grocery%20Comparator%20Agent.md">Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</a></td>
     <td>Converse on whatsapp to get real time prices of your daily grocery grouped by popular quick-commerce apps.</td>
   </tr>
 </table>
